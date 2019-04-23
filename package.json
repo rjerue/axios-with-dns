@@ -1,0 +1,34 @@
+{
+  "name": "axios-with-dns",
+  "version": "1.0.1",
+  "description": "DNS Resolver Interceptor for Axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.18.0"
+  },
+  "peerDependencies": {
+    "axios": "^0.18.0"
+  },
+  "dependencies": {
+    "is-ip": "^3.0.0",
+    "native-dns": "^0.7.0",
+    "url": "^0.11.0"
+  },
+  "private": false,
+  "keywords": [
+    "axios",
+    "dns",
+    "interceptor"
+  ],
+  "author": {
+    "name": "Ryan Jerue",
+    "email": "ryan@jerue.org",
+    "url": "http://jerue.org"
+  },
+  "repository": "https://github.com/rjerue/axios-with-dns",
+  "homepage": "https://github.com/rjerue/axios-with-dns"
+}
