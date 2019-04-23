@@ -27,3 +27,5 @@ out*
 .storybook
 .vscode
 stories
+
+lib

@@ -1,4 +1,4 @@
-const withDNS = require('.');
+const withDNS = require('./src');
 const axios = require('axios');
 
 withDNS(axios);
