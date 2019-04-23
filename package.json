@@ -1,6 +1,6 @@
 {
   "name": "axios-with-dns",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "DNS Resolver Interceptor for Axios",
   "main": "index.js",
   "scripts": {
