@@ -1,6 +1,6 @@
 # axios-with-dns
 
-Allows you to query axios with a different DNS server.
+Allows you to query axios with a different/custom DNS server.
 
 ## Usage
 
